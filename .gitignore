@@ -1,0 +1,4 @@
+/environments/production/terraform.tfstate
+/environments/production/terraform.tfstate.backup
+/environments/staging/terraform.tfstate
+/environments/staging/terraform.tfstate.backup
